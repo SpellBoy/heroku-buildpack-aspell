@@ -7,7 +7,7 @@
 This buildpack works best with the multiple buildpacks feature of Heroku.
 
 ```
-$ heroku buildpacks:add --index 1 https://github.com/xavriley/heroku-buildpack-aspell
+$ heroku buildpacks:add --index 1 https://github.com/spellboy/heroku-buildpack-aspell
 $ git commit --allow-empty -m "Add aspell buildpack"
 ```
 
