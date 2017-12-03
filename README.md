@@ -1,6 +1,7 @@
 # heroku-buildpack-aspell
 
-* NOTE: This is an experimental OSS project *
+* Used for [SpellBoy - Online Spell and Grammar Checker](https://www.spellboy.com/)
+* Experimental
 
 # Installation
 
